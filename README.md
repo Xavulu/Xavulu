@@ -27,7 +27,7 @@
 
 ![meme](readme_xf.png)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xavulu.visitor-badge) ![netscape](Nestscape.gif) ![counter](counter.gif) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xavulu.xav-badge) ![netscape](Nestscape.gif) ![counter](counter.gif) 
 ![learn](learn.gif) ![notepad](notepad.gif) ![anti](antiie.png)
 ![casnet](casnet1.gif)
 ![host](InfiniteSystemsBadge.gif)
