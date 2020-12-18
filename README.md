@@ -8,7 +8,7 @@
 - I'm currently located in NYC and looking for work
 - I studied Geographic Information Science and Computer Science at Hunter college (self dox wow) 
 - Systems and server side programming is my jam 
-- Im obsessed with the old internet aestheic from late 90s - early 2000's 
+- Im obsessed with the old internet aesthetic from late 90s - early 2000's 
 - I use the following languages: 
 > Golang, Python, Rust, Javascript, C++ 
 - And the following tools/software: 
