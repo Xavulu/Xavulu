@@ -5,7 +5,7 @@
 ![spinning earth](spinningearth.gif) ![netspin](SpinningNetscape.gif) ![hot](hot.gif)
 
 ## Hi my name is Xavier F: 
-- I'm currently located in NYC 
+- I'm currently located in NYC and looking for work
 - I studied Geographic Information Science and Computer Science at Hunter college (self dox wow) 
 - Systems and server side programming is my jam 
 - Im obsessed with the old internet aestheic from late 90s - early 2000's 
