@@ -25,7 +25,7 @@
 - LastFM: [natu2k](https://www.last.fm/user/natu2k)
 - You can also check out my [website](https://xf.exef.dev/) which is pretty cool imo
 
-![meme](readme_xf.png)
+[![meme](readme_xf.png)](https://github.com/Xavulu/Xavulu/blob/master/manifesto.txt)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xavulu.xav-badge) ![netscape](Nestscape.gif) ![counter](counter.gif) 
 ![learn](learn.gif) ![notepad](notepad.gif) ![anti](antiie.png)
