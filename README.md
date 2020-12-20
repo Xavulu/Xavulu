@@ -27,7 +27,7 @@
 - Linkedin: you can find this on your own i promise 
 - LastFM: [natu2k](https://www.last.fm/user/natu2k)
 - You can also check out my [website](https://xf.exef.dev/) which is pretty cool imo
-```
+```rust
                   |￣￣￣￣￣￣￣￣|
                   |taking       |
                   |the rust-pill| 
