@@ -27,7 +27,15 @@
 - Linkedin: you can find this on your own i promise 
 - LastFM: [natu2k](https://www.last.fm/user/natu2k)
 - You can also check out my [website](https://xf.exef.dev/) which is pretty cool imo
-
+```
+                  |￣￣￣￣￣￣￣￣|
+                  |taking       |
+                  |the rust-pill| 
+                  |_＿＿＿＿＿____| 
+                  (\__/) || 
+                  (•ㅅ•) || 
+                  / 　 づ 
+```
 [![meme](readme_xf.png)](https://github.com/Xavulu/Xavulu/blob/master/manifesto.txt)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xavulu.xav-badge) ![netscape](Nestscape.gif) ![counter](counter.gif) 
