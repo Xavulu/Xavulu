@@ -34,7 +34,7 @@
                   |_＿＿＿＿＿____| 
                   (\__/) || 
                   (•ㅅ•) || 
-                  / 　 づ 
+                  / 　 づ                         ₍˄·͈༝·͈˄*₎◞ ̑̑ (=Φܫ Φ=)∫ ฅ(＾・ω・＾ฅ)
 ```
 [![meme](readme_xf.png)](https://github.com/Xavulu/Xavulu/blob/master/manifesto.txt)
 
