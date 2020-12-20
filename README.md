@@ -2,7 +2,10 @@
 [![enter](enterh.GIF)](https://github.com/Xavulu)
 
 ℙʳ𝐄ѕＥⓝⓉ 𝐃Ã𝕐... קＲ€ŜｅŇ𝓽 ŤĮϻ𝓔... 
+
 ![spinning earth](spinningearth.gif) ![netspin](SpinningNetscape.gif) ![hot](hot.gif)
+
+![daytime](daytime.gif)
 
 ## Hi my name is Xavier F: 
 - I'm currently located in NYC and looking for work
@@ -28,6 +31,6 @@
 [![meme](readme_xf.png)](https://github.com/Xavulu/Xavulu/blob/master/manifesto.txt)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xavulu.xav-badge) ![netscape](Nestscape.gif) ![counter](counter.gif) 
-![learn](learn.gif) ![notepad](notepad.gif) ![anti](antiie.png)
+![learn](learn.gif) ![notepad](notepad.gif) ![anti](antiie.png) ![human](humandata.gif) ![mind](mind.gif)
 ![casnet](casnet1.gif)
-![host](InfiniteSystemsBadge.gif)
+![host](InfiniteSystemsBadge.gif) ![electronic](electronic.jpg)
