@@ -8,8 +8,7 @@
 ![daytime](daytime.gif)
 
 ## Hi my name is Xavier F: 
-- I'm currently located in NYC and looking for work
-- I studied Geographic Information Science and Computer Science at Hunter college (self dox wow) 
+- I'm currently located in NYC and looking for work 
 - Systems and server side programming is my jam 
 - I'm obsessed with the old internet aesthetic from late 90s - early 2000's 
 - I use the following languages: 
@@ -36,7 +35,6 @@
                   (•ㅅ•) || 
                   / 　 づ                         ₍˄·͈༝·͈˄*₎◞ ̑̑ (=Φܫ Φ=)∫ ฅ(＾・ω・＾ฅ)
 ```
-[![meme](readme_xf.png)](https://github.com/Xavulu/Xavulu/blob/master/manifesto.txt)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Xavulu.xav-badge) ![netscape](Nestscape.gif) ![counter](counter.gif) 
 ![learn](learn.gif) ![notepad](notepad.gif) ![anti](antiie.png) ![human](humandata.gif) ![mind](mind.jpg)
