@@ -8,7 +8,7 @@
 ![daytime](daytime.gif)
 
 ## Hi my name is Xavier F: 
-- I'm currently located in NYC and looking for work 
+- I'm currently located in NYC 
 - Systems and server side programming is my jam 
 - I'm obsessed with the old internet aesthetic from late 90s - early 2000's 
 - I use the following languages: 
